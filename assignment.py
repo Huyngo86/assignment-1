@@ -71,5 +71,3 @@ for x in B:
         B_giao_C.append(x)
 
 print("Ý 4:", len(B_giao_C))
-# Question 3: Solve the logic equation:
-# (p ∨ q) → r = (p ⊕ r) ∧ q.
